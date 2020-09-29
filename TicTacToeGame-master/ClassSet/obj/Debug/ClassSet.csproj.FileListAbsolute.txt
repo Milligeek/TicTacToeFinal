@@ -1,0 +1,12 @@
+C:\Users\Danny.LAPTOP-SJJ2KHLN\Desktop\1150\TicTacToe\ClassSet\bin\Debug\ClassSet.dll
+C:\Users\Danny.LAPTOP-SJJ2KHLN\Desktop\1150\TicTacToe\ClassSet\bin\Debug\ClassSet.pdb
+C:\Users\Danny.LAPTOP-SJJ2KHLN\Desktop\1150\TicTacToe\ClassSet\obj\Debug\ClassSet.csproj.CoreCompileInputs.cache
+C:\Users\Danny.LAPTOP-SJJ2KHLN\Desktop\1150\TicTacToe\ClassSet\obj\Debug\ClassSet.dll
+C:\Users\Danny.LAPTOP-SJJ2KHLN\Desktop\1150\TicTacToe\ClassSet\obj\Debug\ClassSet.pdb
+C:\Users\Danny.LAPTOP-SJJ2KHLN\Desktop\1150\TicTacToe\ClassSet\obj\Debug\ClassSet.csprojAssemblyReference.cache
+C:\Users\James Moore\source\repos\01_sun\CSHARPFundamentals\TicTacToeGame-master\ClassSet\bin\Debug\ClassSet.dll
+C:\Users\James Moore\source\repos\01_sun\CSHARPFundamentals\TicTacToeGame-master\ClassSet\bin\Debug\ClassSet.pdb
+C:\Users\James Moore\source\repos\01_sun\CSHARPFundamentals\TicTacToeGame-master\ClassSet\obj\Debug\ClassSet.csprojAssemblyReference.cache
+C:\Users\James Moore\source\repos\01_sun\CSHARPFundamentals\TicTacToeGame-master\ClassSet\obj\Debug\ClassSet.csproj.CoreCompileInputs.cache
+C:\Users\James Moore\source\repos\01_sun\CSHARPFundamentals\TicTacToeGame-master\ClassSet\obj\Debug\ClassSet.dll
+C:\Users\James Moore\source\repos\01_sun\CSHARPFundamentals\TicTacToeGame-master\ClassSet\obj\Debug\ClassSet.pdb
